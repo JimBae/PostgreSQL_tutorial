@@ -1,0 +1,15 @@
+# open db
+psql {db_name}
+ex) 
+psql testdb_01
+
+# exit
+\q
+
+# list databases
+\l
+
+# list roles
+\du
+
+
